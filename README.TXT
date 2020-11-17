@@ -1,4 +1,3 @@
-Jordi Pun Assessment 2019
 
 README FILE:
 
